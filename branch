@@ -1,1 +1,3 @@
-What is a branch?
+A branch is a version of a repository that differs from the master branch.
+It is normally used in order to make experimental changes which can then later
+be merged with the master branch. 
